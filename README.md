@@ -1,3 +1,15 @@
+# UPDATE 2020-06-02 
+
+Cloned repo, then `npm install` then `npm run dev` as specified under **Local Development** below. It errored. 
+
+I haven't even done anything yet. 
+
+Fail.
+
+Look for alternative template...
+
+# README 
+
 Awake is a Nuxt.js template for generating a beautifully robust static site with blog. 
 
 # Features
